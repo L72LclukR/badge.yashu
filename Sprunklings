@@ -1,8 +1,4 @@
-.fromRGB(255, 84, 84)}
-        )
-    end
-end)
-end of-->/Sprunklings / Parkour // Author: LightGray2/<--
+-->/Sprunklings / Parkour // Author: LightGray2/<--
 local targetPlaceID = 117766172288998
 
 if game.PlaceId == targetPlaceID then
